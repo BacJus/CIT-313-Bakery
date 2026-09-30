@@ -1,0 +1,35 @@
+body {
+    background-color: #f7f1e3;
+}
+
+.bakery-header {
+    background-color: #8b5e3c;
+}
+
+.card {
+    background-color: #fffaf0;
+    border: 2px solid #d6b98c;
+}
+
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
+
+.card-title {
+    color: #6b4423;
+}
+
+.card-text {
+    color: #4f4035;
+}
+
+.btn-primary {
+    background-color: #8b5e3c;
+    border-color: #8b5e3c;
+}
+
+.btn-primary:hover {
+    background-color: #6f472d;
+    border-color: #6f472d;
+}
